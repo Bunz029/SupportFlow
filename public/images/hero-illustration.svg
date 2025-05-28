@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Elements -->
+    <path d="M50,300 Q400,50 750,300 Q400,550 50,300" fill="#F3F0FF" opacity="0.5"/>
+    <circle cx="400" cy="300" r="250" fill="#EDE9FE" opacity="0.3"/>
+    
+    <!-- Main Support Interface -->
+    <rect x="200" y="100" width="400" height="300" rx="20" fill="white" stroke="#7C3AED" stroke-width="2"/>
+    
+    <!-- Header Bar -->
+    <rect x="200" y="100" width="400" height="50" rx="20" fill="#7C3AED"/>
+    <circle cx="235" cy="125" r="8" fill="#FF5757"/>
+    <circle cx="265" cy="125" r="8" fill="#FFBD2E"/>
+    <circle cx="295" cy="125" r="8" fill="#28C840"/>
+    
+    <!-- Chat Messages -->
+    <rect x="220" y="170" width="250" height="40" rx="20" fill="#F3F0FF"/>
+    <rect x="220" y="230" width="200" height="40" rx="20" fill="#7C3AED"/>
+    <rect x="220" y="290" width="300" height="40" rx="20" fill="#F3F0FF"/>
+    
+    <!-- Floating Elements -->
+    <circle cx="600" cy="400" r="30" fill="#7C3AED" opacity="0.2"/>
+    <circle cx="650" cy="450" r="20" fill="#7C3AED" opacity="0.15"/>
+    <circle cx="150" cy="200" r="25" fill="#7C3AED" opacity="0.1"/>
+    <circle cx="180" cy="150" r="15" fill="#7C3AED" opacity="0.2"/>
+    
+    <!-- Support Icons -->
+    <circle cx="700" cy="150" r="40" fill="#7C3AED" opacity="0.1"/>
+    <path d="M680,150 h40 M700,130 v40" stroke="#7C3AED" stroke-width="4"/>
+    
+    <circle cx="100" cy="450" r="40" fill="#7C3AED" opacity="0.1"/>
+    <path d="M80,450 h40 M100,430 v40" stroke="#7C3AED" stroke-width="4"/>
+</svg> 
